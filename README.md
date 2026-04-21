@@ -10,7 +10,7 @@ This project focuses on analyzing Windows Security Event Logs using Splunk to id
 * **PowerShell** (For event generation)
 
 ## Technical Analysis: Event Code 4798 (User Account Enumeration)
-The screenshot below captures **Event Code 4798**, which triggers when a user's local group membership is enumerated. In a real-world scenario, attackers use this to find accounts with administrative privileges.
+The screenshot below captures **Event Code 4798**, which triggers when a user's local group membership is enumerated (Gathering information about a system). In a real-world scenario, attackers use this to find accounts with administrative privileges.
 
 <img width="1118" height="600" alt="all-logs" src="https://github.com/user-attachments/assets/3fb089cf-3cdf-4174-b1e8-1f5e0b76faa4" />
 
