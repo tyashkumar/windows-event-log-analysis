@@ -41,7 +41,7 @@ A **Logon Type 3** indicates the attempt happened over the network. Seeing this 
 ---------------------------------------------------------------------------------------
 ---
 
-## Technical Analysis: Event Code 4624 (Successful Service Logon)
+## Technical Analysis: Event Code 4624 (Successful Login)
 While monitoring for failures is important, baseline monitoring of successful logons is key to detecting lateral movement or persistence.
 
 ### Evidence
